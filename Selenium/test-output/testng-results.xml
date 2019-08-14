@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16545" started-at="2019-08-13T06:01:36Z" finished-at="2019-08-13T06:01:53Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="Test1.browserCommands()[pri:0, instance:Selenium.Test1@1bce4f0a]" name="browserCommands" class="Selenium.Test1"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Test" duration-ms="16545" started-at="2019-08-13T06:01:36Z" finished-at="2019-08-13T06:01:53Z">
+      <class name="Selenium.Test1">
+        <test-method status="PASS" signature="browserCommands()[pri:0, instance:Selenium.Test1@1bce4f0a]" name="browserCommands" duration-ms="16483" started-at="2019-08-13T06:01:36Z" finished-at="2019-08-13T06:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserCommands -->
+      </class> <!-- Selenium.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
